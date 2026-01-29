@@ -1,0 +1,13 @@
+{
+	"id": "afterlights_knick_knacks",
+	"name": "Afterlight's Knick Knacks",
+	"author": [ "afterlight" ],
+	"description": "Adds a bunch of random jokers I make for fun. Balance not guaranteed.",
+	"prefix": "knick_knacks",
+	"main_file": "main.lua",
+	"badge_colour": "aeeb34",
+	"dependencies": [
+		"Steamodded (>=1.0.0~ALPHA-1225a)"
+	],
+	"version": "0.1.0"
+}
